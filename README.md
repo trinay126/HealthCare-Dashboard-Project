@@ -63,9 +63,11 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 - Tooltip breakdown shows General cases lead with 15.9K patients, followed by Bones (13.4K), Urine (9.7K), Eyes (9.2K), and Heart (7.1K).    
 
 ## 📊 Dashboard Preview
-![Summary](Summary_Dashboard.png)
-![DetailedView](DetailedView_Dashboard.png)
-![Tooltip](Tooltip.png)
+
+![Summary Dashboard](Summary_Dashboard.png)  
+![Detailed View Dashboard](DetailedView_Dashboard.png)  
+![Tooltip View](Tooltip.png)
+
 
 ## Skills Demonstrated
 - Power Query: data profiling, basic cleaning, and transformation
@@ -87,3 +89,4 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 🎓 Aspiring Data Analyst | Excel, Power BI
 
 ---
+
