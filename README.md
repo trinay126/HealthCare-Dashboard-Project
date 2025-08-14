@@ -65,10 +65,8 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 ## 📊 Dashboard Preview
 
 ![Summary_Dashboard](Summary_Dashboard.png)  
-##page2
-![Detailed_View Dashboard](DetailedView_Dashboard.png) 
-##page3
-![Tooltip_View](Tooltip.png)
+![Detailed_View Dashboard](DetailedView_dashboard.png) 
+![Tooltip_View](Tooltip_view.png)
 
 
 ## Skills Demonstrated
@@ -91,5 +89,6 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 🎓 Aspiring Data Analyst | Excel, Power BI
 
 ---
+
 
 
