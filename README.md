@@ -66,6 +66,7 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 
 ![Summary_Dashboard](Summary_Dashboard.png)  
 ![Detailed_View Dashboard](DetailedView_dashboard.png) 
+-This is an tooltip view 
 ![Tooltip_View](Tooltip_view.png)
 
 
@@ -89,6 +90,7 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 🎓 Aspiring Data Analyst | Excel, Power BI
 
 ---
+
 
 
 
