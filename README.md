@@ -13,16 +13,14 @@ It offers insights into patient demographics, treatment outcomes, operational ef
 ## 🎯 Objectives
 1. Analyze patient demographics such as age, gender, and location.
 2. Monitor treatment outcomes and operational performance.
-3. Track hospital resource usage (beds, doctors, equipment).
-4. Improve decision-making through visual analytics.
+3. Improve decision-making through visual analytics.
 
 ## 📊 Key Features
-- **Patient Demographics:** Distribution by age group, gender, and location.
+- **Patient Demographics:** Distribution by age group, Speciality group/name, Case Type etc.
 - **Treatment Analysis:** Recovery rates, ongoing cases, and average treatment duration.
-- **Resource Utilization:** Bed occupancy rate, doctor-patient ratio.
 - **Time Trends:** Monthly admissions and discharge patterns.
 - **Filters & Slicers:** Interactive filters for gender, location, and time period.
-- **KPIs & Cards:** Quick view of key metrics such as total patients, average treatment time, and recovery percentage.
+- **KPIs & Cards:** Quick view of key metrics such as total patients, Monthly Wait List,speciality details.
 
 ## 🔄 ETL Process
 The dashboard was built following the **Extract, Transform, Load (ETL)** methodology:
@@ -31,20 +29,20 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 3. **Load:** Data model created in Power BI with proper relationships.
 
 ## 📈 Visuals Used
-- **Clustered Bar Chart:** Patient count by location.
-- **Pie Chart:** Gender distribution.
+- **Clustered Bar Chart:** Patient count by TimeBands Vs. Age profile.
+- **Pie Chart:** Case Type Split                  
 - **Line Chart:** Monthly trends of patient admissions.
 - **Table:** Detailed patient records with conditional formatting.
 - **Cards:** KPIs for quick reference.
-- **Gauge Chart:** Bed occupancy rate.
+
 
 ## ⚙️ How to Use the Dashboard
 1. Open the `.pbix` file in **Microsoft Power BI Desktop**.
 2. Navigate through different report pages.
 3. Use slicers to filter by:
    - Time period
-   - Location
-   - Gender
+   - Case Type
+   - Speciality Name
 4. Hover over visuals to see detailed tooltips.
 
 ## 📌 Insights Gained
@@ -90,6 +88,7 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 🎓 Aspiring Data Analyst | Excel, Power BI
 
 ---
+
 
 
 
